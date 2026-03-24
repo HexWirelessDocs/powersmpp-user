@@ -19,7 +19,7 @@ The **Campaign Report** section provides two views for tracking campaign perform
   - View message counts by status (delivered, failed, etc.)  
   - Download detailed reports  
 
-![Campaign View](images/Campaign1.png)
+![Campaign View](images/campaign1.png)
 
 ---
 
