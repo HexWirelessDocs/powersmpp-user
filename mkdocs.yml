@@ -1,0 +1,92 @@
+site_name: Power SMPP User Documentation
+site_url: https://doc.user.powersmpp.com
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - search.highlight
+    - search.suggest
+    - search.share
+    - navigation.tracking
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+  font:
+    text: Roboto
+    code: Red Hat Mono
+  logo: assets/powersmpp.png
+  favicon: assets/powersmppfavicon.png
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: white
+      accent: deep orange
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: cyan
+      accent: cyan
+    # Light Mode
+
+plugins:
+  - search
+  - tags
+  - encryptcontent:
+      global_password: !ENV MKDOCS_PASSWORD
+      title_prefix: ''
+      summary: ''
+      placeholder: 'Enter password'
+      decryption_failure_message: 'Incorrect password. Please try again.'
+      encryption_info_message: ''
+      password_button: true
+      password_button_text: 'Submit'
+      input_class: 'md-input'
+      button_class: 'md-button md-button--primary'
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://www.powersmpp.com
+      name: Power SMPP Website
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/919909945175
+      name: WhatsApp Support
+  generator: false
+
+copyright: Copyright &copy; 2024-2026 Power SMPP. All rights reserved.
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+INHERIT: ./nav.yml

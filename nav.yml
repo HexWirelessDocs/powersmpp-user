@@ -1,0 +1,31 @@
+nav:
+  - Welcome: index.md
+  - User:
+      - Dashboard: user/dashboard/dashboard.md
+      - SMS MT:
+          - SMS:
+              - Compose SMS: user/smsmt/compose.md
+              - SMS From Excel: user/smsmt/smsfromexcel.md
+              - Manage Sender ID: user/smsmt/managesenderid.md
+              - Manage Template: user/smsmt/managetemplate.md
+          - Contacts:
+              - Manage Groups: user/contacts/managegroups.md
+              - Import Contacts: user/contacts/importcontacts.md
+              - Export Contacts: user/contacts/exportcontacts.md
+          - Report:
+              - Campaign Report: user/report/campaign.md
+              - My Schedules: user/report/schedule.md
+              - Message Count: user/report/messagecount.md
+              - Download Report: user/report/downloadreport.md
+          - Application Bar:
+              - My Rate Plan: user/applicationbar/rateplan.md
+              - My Transactions: user/applicationbar/transaction.md
+              - WebHooks: user/applicationbar/webhook.md
+              - Notification Email: user/applicationbar/notificationemail.md
+          - Settings:
+              - My Profile: user/settings/myprofile.md
+              - Change Password: user/settings/changepassword.md
+      - Developer API:
+          - Developer API: user/apidocument/developerapi.md
+          - API Document: user/apidocument/document.md
+  - Glossary: glossary.md
