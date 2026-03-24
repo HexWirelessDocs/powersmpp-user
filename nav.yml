@@ -28,4 +28,19 @@ nav:
       - Developer API:
           - Developer API: user/apidocument/developerapi.md
           - API Document: user/apidocument/document.md
+  - WhatsApp Usersite:
+      - Getting Started: plugins/whatsapp/whatsappuser/overview.md
+      - Campaign: plugins/whatsapp/whatsappuser/campaign.md
+      - Template: plugins/whatsapp/whatsappuser/template.md
+      - Team with Agent Accounts: plugins/whatsapp/whatsappuser/teamagent.md
+      - WhatsApp Advanced Routing Rules: plugins/whatsapp/whatsappuser/advancerouting.md
+      - Rule Configuration: plugins/whatsapp/whatsappuser/ruleconfiguration.md
+      - Manage Flow: plugins/whatsapp/whatsappuser/manageflow.md
+      - Team Inbox: plugins/whatsapp/whatsappuser/teaminbox.md
+      - Report:
+          - Campaign Report: plugins/whatsapp/whatsappuser/reports/campaignreport.md
+          - Message Count Report: plugins/whatsapp/whatsappuser/reports/messagecount.md
+          - My Schedule: plugins/whatsapp/whatsappuser/reports/myschedule.md
+          - Download WhatsApp Report: plugins/whatsapp/whatsappuser/reports/downloadreport.md
+      - Monitoring: plugins/whatsapp/whatsappuser/monitoring.md
   - Glossary: glossary.md
