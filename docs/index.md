@@ -32,6 +32,14 @@ For more information, visit the official website: [Power SMPP.com](https://www.p
 
     [:octicons-arrow-right-24: View Glossary](glossary.md)
 
+-   :material-frequently-asked-questions:{ .lg .middle } **FAQ**
+
+    ---
+
+    Find quick answers to common questions about Power SMPP
+
+    [:octicons-arrow-right-24: View FAQ](faq.md)
+
 </div>
 
 ---
