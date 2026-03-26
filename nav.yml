@@ -44,4 +44,5 @@ nav:
           - Download WhatsApp Report: plugins/whatsapp/whatsappuser/reports/downloadreport.md
       - Monitoring: plugins/whatsapp/whatsappuser/monitoring.md
   - Glossary: glossary.md
+  - SMPP Error Codes: smpp-error-codes.md
   - FAQ: faq.md
