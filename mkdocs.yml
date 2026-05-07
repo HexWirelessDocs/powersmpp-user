@@ -13,9 +13,6 @@ theme:
     - search.share
     - navigation.tracking
     - navigation.footer
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.top
     - toc.follow
     - content.code.copy
@@ -42,6 +39,173 @@ theme:
     # Light Mode
 
 plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pt
+          name: Português (Portuguese)
+          build: true
+          nav_translations:
+            "API Document": "Documento da API"
+            "Application Bar": "Barra de Aplicação"
+            "Campaign": "Campanha"
+            "Campaign Report": "Relatório da Campanha"
+            "Change Password": "Mudar a Senha"
+            "Compose SMS": "Compor SMS"
+            "Contacts": "Contactos"
+            "Dashboard": "Painel"
+            "Developer API": "API do desenvolvedor"
+            "Download Report": "Baixar relatório"
+            "Download WhatsApp Report": "Baixar relatório do WhatsApp"
+            "Export Contacts": "Exportar contatos"
+            "Getting Started": "Começar"
+            "Glossary": "Glossário"
+            "Import Contacts": "Importar contatos"
+            "Manage Flow": "Gerenciar fluxo"
+            "Manage Groups": "Gerenciar grupos"
+            "Manage Sender ID": "Gerenciar o ID do remetente"
+            "Manage Template": "Gerenciar Modelo"
+            "Message Count": "Contagem de Mensagens"
+            "Message Count Report": "Relatório da Contagem de Mensagens"
+            "Monitoring": "Acompanhamento"
+            "My Profile": "Meu Perfil"
+            "My Rate Plan": "Meu Plano de Taxa"
+            "My Schedule": "Minha agenda"
+            "My Schedules": "Minhas Agendas"
+            "My Transactions": "Minhas Transações"
+            "Notification Email": "E- mail de notificação"
+            "Report": "Relatório"
+            "Rule Configuration": "Configuração da Regra"
+            "SMPP Error Codes": "Códigos de Erro SMPP"
+            "SMS From Excel": "SMS do Excel"
+            "Settings": "Configurações"
+            "Team Inbox": "Caixa de Entrada da Equipa"
+            "Team with Agent Accounts": "Equipa com Contas de Agente"
+            "Template": "Modelo"
+            "User": "Usuário"
+            "Welcome": "Boas-vindas"
+            "WhatsApp Advanced Routing Rules": "Regras avançadas de roteamento do WhatsApp"
+            "WhatsApp Usersite": "Usuários do WhatsApp"
+        - locale: es
+          name: Español (Spanish)
+          build: true
+          nav_translations:
+            "Campaign": "Campaña"
+            "Change Password": "Cambiar contraseña"
+            "Compose SMS": "Configurar SMS"
+            "Contacts": "Contactos"
+            "Download Report": "Descargar Report"
+            "Download WhatsApp Report": "Descargar WhatsApp Report"
+            "Export Contacts": "Contactos de exportación"
+            "Getting Started": "Comienzo"
+            "Glossary": "Glosario"
+            "Import Contacts": "Contactos de importación"
+            "Manage Groups": "Gestion Groups"
+            "Manage Sender ID": "Administrar ID del remitente"
+            "Manage Template": "Plantilla de manejo"
+            "Message Count": "Cuenta del mensaje"
+            "Message Count Report": "Informe de cuenta del mensaje"
+            "Monitoring": "Supervisión"
+            "My Profile": "Mi perfil"
+            "My Rate Plan": "Mi plan de tarifas"
+            "My Schedule": "Mi agenda"
+            "My Schedules": "Mis horarios"
+            "My Transactions": "Mis transacciones"
+            "Report": "Informe"
+            "Rule Configuration": "Configuración de reglas"
+            "SMPP Error Codes": "Códigos de error SMPP"
+            "Settings": "Ajustes"
+            "Team with Agent Accounts": "Equipo con Cuentas Agente"
+            "Template": "Plantilla"
+            "User": "Usuario"
+            "Welcome": "Bienvenido"
+            "WhatsApp Advanced Routing Rules": "WhatsApp Reglas de rutina avanzadas"
+            "WhatsApp Usersite": "WhatsApp Usuariosite"
+        - locale: fr
+          name: Français (French)
+          build: true
+          nav_translations:
+            "API Document": "Document API"
+            "Application Bar": "Barre d'application"
+            "Campaign": "Campagne"
+            "Campaign Report": "Rapport de campagne"
+            "Change Password": "Modifier le mot de passe"
+            "Compose SMS": "Composer un SMS"
+            "Contacts": "Personnes-ressources"
+            "Dashboard": "Tableau de bord"
+            "Developer API": "API développeur"
+            "Download Report": "Télécharger le rapport"
+            "Download WhatsApp Report": "Télécharger le rapport WhatsApp"
+            "Export Contacts": "Personnes-ressources pour l'exportation"
+            "Getting Started": "Commencer"
+            "Glossary": "Glossaire"
+            "Import Contacts": "Importer des contacts"
+            "Manage Flow": "Gérer le flux"
+            "Manage Groups": "Gérer les groupes"
+            "Manage Sender ID": "Gérer l'identifiant de l'expéditeur"
+            "Manage Template": "Gérer le modèle"
+            "Message Count": "Nombre de messages"
+            "Message Count Report": "Rapport de compte de message"
+            "Monitoring": "Surveillance"
+            "My Profile": "Mon profil"
+            "My Rate Plan": "Mon plan de taux"
+            "My Schedule": "Mon horaire"
+            "My Schedules": "Mes horaires"
+            "My Transactions": "Mes transactions"
+            "Notification Email": "Courriel de notification"
+            "Report": "Rapport annuel"
+            "Rule Configuration": "Configuration des règles"
+            "SMPP Error Codes": "Codes d'erreur SMPP"
+            "SMS From Excel": "SMS depuis Excel"
+            "SMS MT": "AUTRES"
+            "Settings": "Paramètres"
+            "Team Inbox": "Boîte de réception de l'équipe"
+            "Team with Agent Accounts": "Équipe avec les comptes d'agents"
+            "Template": "Modèle"
+            "User": "Utilisateur"
+            "Welcome": "Bienvenue"
+            "WhatsApp Advanced Routing Rules": "Règles d'acheminement avancées WhatsApp"
+        - locale: tr
+          name: Türkçe (Turkish)
+          build: true
+          nav_translations:
+            "API Document": "API"
+            "Application Bar": "Uygulama Bar"
+            "Campaign": "Kampanya Kampanyası"
+            "Campaign Report": "Kampanya Raporu"
+            "Compose SMS": "Boş SMS"
+            "Contacts": "İletişim"
+            "Developer API": "Geliştirici API API"
+            "Export Contacts": "İhracat İletişimi"
+            "FAQ": "SSS"
+            "Getting Started": "Başlanmaya başladı"
+            "Glossary": "Parlak"
+            "Import Contacts": "İthalat İletişim"
+            "Manage Flow": "Akış"
+            "Manage Groups": "Yönetim Grupları"
+            "Manage Sender ID": "Yönetin Gönderer ID"
+            "Manage Template": "Kodlama"
+            "Message Count": "Mesaj Count"
+            "Message Count Report": "Mesaj Count Report Report"
+            "Monitoring": "İzleme"
+            "My Profile": "Profilim"
+            "My Rate Plan": "Benim Puan Planım"
+            "My Transactions": "İşlemlerim"
+            "Notification Email": "Bildirim E-posta"
+            "Report": "Rapor"
+            "Rule Configuration": "Revizyon"
+            "SMPP Error Codes": "SMPP Hata kodları"
+            "Settings": "Ayarlar"
+            "Team with Agent Accounts": "Agent Hesapları ile Takım"
+            "Template": "Şablon"
+            "User": "Kullanıcı"
+            "Welcome": "Hoşgeldiniz Welcome Welcome Hoşgeldiniz"
+            "WhatsApp Advanced Routing Rules": "WhatsApp Advanced Routing Kuralları"
+            "WhatsApp Usersite": "WhatsApp Kullanıcıları"
   - search
   - tags
   - encryptcontent:
