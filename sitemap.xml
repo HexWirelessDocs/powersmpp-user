@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://doc.user.powersmpp.com/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/faq/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/faq/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/glossary/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/glossary/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/smpp-error-codes/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/smpp-error-codes/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/advancerouting/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/manageflow/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/manageflow/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/monitoring/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/overview/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/overview/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/ruleconfiguration/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teamagent/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teamagent/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teaminbox/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/template/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/template/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/campaignreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/myschedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/apidocument/developerapi/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/developerapi/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/apidocument/document/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/document/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/applicationbar/notificationemail/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/notificationemail/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/applicationbar/rateplan/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/rateplan/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/applicationbar/transaction/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/transaction/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/applicationbar/webhook/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/webhook/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/contacts/exportcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/exportcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/contacts/importcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/importcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/contacts/managegroups/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/managegroups/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/dashboard/dashboard/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/dashboard/dashboard/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/report/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/report/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/report/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/report/schedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/schedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/settings/changepassword/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/changepassword/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/settings/myprofile/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/myprofile/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/smsmt/compose/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/compose/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/smsmt/managesenderid/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managesenderid/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/smsmt/managetemplate/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managetemplate/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/user/smsmt/smsfromexcel/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/smsfromexcel/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/faq/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/faq/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/glossary/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/glossary/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/smpp-error-codes/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/smpp-error-codes/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/advancerouting/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/manageflow/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/manageflow/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/monitoring/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/overview/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/overview/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/ruleconfiguration/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teamagent/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teamagent/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teaminbox/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/template/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/template/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/campaignreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/myschedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/apidocument/developerapi/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/developerapi/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/apidocument/document/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/document/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/applicationbar/notificationemail/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/notificationemail/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/applicationbar/rateplan/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/rateplan/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/applicationbar/transaction/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/transaction/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/applicationbar/webhook/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/webhook/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/contacts/exportcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/exportcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/contacts/importcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/importcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/contacts/managegroups/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/managegroups/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/dashboard/dashboard/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/dashboard/dashboard/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/report/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/report/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/report/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/report/schedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/schedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/settings/changepassword/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/changepassword/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/settings/myprofile/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/myprofile/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/smsmt/compose/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/compose/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/smsmt/managesenderid/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managesenderid/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/smsmt/managetemplate/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managetemplate/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/pt/user/smsmt/smsfromexcel/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/smsfromexcel/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/faq/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/faq/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/glossary/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/glossary/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/smpp-error-codes/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/smpp-error-codes/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/advancerouting/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/manageflow/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/manageflow/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/monitoring/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/overview/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/overview/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/ruleconfiguration/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teamagent/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teamagent/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teaminbox/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/template/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/template/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/campaignreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/myschedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/apidocument/developerapi/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/developerapi/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/apidocument/document/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/document/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/applicationbar/notificationemail/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/notificationemail/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/applicationbar/rateplan/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/rateplan/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/applicationbar/transaction/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/transaction/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/applicationbar/webhook/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/webhook/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/contacts/exportcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/exportcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/contacts/importcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/importcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/contacts/managegroups/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/managegroups/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/dashboard/dashboard/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/dashboard/dashboard/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/report/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/report/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/report/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/report/schedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/schedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/settings/changepassword/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/changepassword/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/settings/myprofile/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/myprofile/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/smsmt/compose/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/compose/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/smsmt/managesenderid/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managesenderid/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/smsmt/managetemplate/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managetemplate/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/es/user/smsmt/smsfromexcel/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/smsfromexcel/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/faq/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/faq/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/glossary/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/glossary/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/smpp-error-codes/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/smpp-error-codes/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/advancerouting/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/manageflow/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/manageflow/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/monitoring/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/overview/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/overview/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/ruleconfiguration/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teamagent/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teamagent/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teaminbox/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/template/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/template/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/campaignreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/myschedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/apidocument/developerapi/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/developerapi/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/apidocument/document/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/document/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/applicationbar/notificationemail/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/notificationemail/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/applicationbar/rateplan/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/rateplan/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/applicationbar/transaction/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/transaction/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/applicationbar/webhook/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/webhook/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/contacts/exportcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/exportcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/contacts/importcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/importcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/contacts/managegroups/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/managegroups/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/dashboard/dashboard/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/dashboard/dashboard/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/report/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/report/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/report/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/report/schedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/schedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/settings/changepassword/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/changepassword/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/settings/myprofile/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/myprofile/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/smsmt/compose/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/compose/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/smsmt/managesenderid/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managesenderid/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/smsmt/managetemplate/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managetemplate/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/fr/user/smsmt/smsfromexcel/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/smsfromexcel/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/faq/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/faq/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/glossary/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/glossary/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/smpp-error-codes/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/smpp-error-codes/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/smpp-error-codes/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/advancerouting/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/advancerouting/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/advancerouting/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/manageflow/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/manageflow/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/manageflow/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/monitoring/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/overview/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/overview/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/ruleconfiguration/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/ruleconfiguration/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teamagent/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teamagent/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teamagent/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teaminbox/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/teaminbox/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/teaminbox/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/template/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/template/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/template/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/campaignreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/campaignreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/myschedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/plugins/whatsapp/whatsappuser/reports/myschedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/apidocument/developerapi/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/developerapi/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/developerapi/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/apidocument/document/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/apidocument/document/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/apidocument/document/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/applicationbar/notificationemail/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/notificationemail/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/notificationemail/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/applicationbar/rateplan/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/rateplan/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/rateplan/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/applicationbar/transaction/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/transaction/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/transaction/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/applicationbar/webhook/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/applicationbar/webhook/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/applicationbar/webhook/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/contacts/exportcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/exportcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/exportcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/contacts/importcontacts/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/importcontacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/importcontacts/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/contacts/managegroups/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/contacts/managegroups/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/contacts/managegroups/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/dashboard/dashboard/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/dashboard/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/dashboard/dashboard/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/report/campaign/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/campaign/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/campaign/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/report/downloadreport/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/downloadreport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/downloadreport/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/report/messagecount/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/messagecount/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/messagecount/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/report/schedule/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/report/schedule/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/report/schedule/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/settings/changepassword/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/changepassword/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/changepassword/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/settings/myprofile/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/settings/myprofile/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/settings/myprofile/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/smsmt/compose/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/compose/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/compose/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/smsmt/managesenderid/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managesenderid/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managesenderid/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/smsmt/managetemplate/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/managetemplate/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/managetemplate/"/>
+    </url>
+    <url>
+        <loc>https://doc.user.powersmpp.com/tr/user/smsmt/smsfromexcel/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://doc.user.powersmpp.com/tr/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://doc.user.powersmpp.com/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://doc.user.powersmpp.com/es/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://doc.user.powersmpp.com/fr/user/smsmt/smsfromexcel/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://doc.user.powersmpp.com/pt/user/smsmt/smsfromexcel/"/>
+    </url>
+</urlset>

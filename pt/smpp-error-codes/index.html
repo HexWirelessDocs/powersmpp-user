@@ -1,0 +1,2427 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://doc.user.powersmpp.com/pt/smpp-error-codes/">
+      
+      
+        <link rel="prev" href="../glossary/">
+      
+      
+        <link rel="next" href="../faq/">
+      
+      
+        
+          <link rel="alternate" href="../../smpp-error-codes/" hreflang="en">
+        
+          <link rel="alternate" href="./" hreflang="pt">
+        
+          <link rel="alternate" href="../../es/smpp-error-codes/" hreflang="es">
+        
+          <link rel="alternate" href="../../fr/smpp-error-codes/" hreflang="fr">
+        
+          <link rel="alternate" href="../../tr/smpp-error-codes/" hreflang="tr">
+        
+      
+      
+      <link rel="icon" href="../../assets/powersmppfavicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Códigos de Erro SMPP - Power SMPP User Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRed+Hat+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Red Hat Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="deep-orange">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#lista-de-codigos-de-erro-smpp-padrao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../" title="Power SMPP User Documentation" class="md-header__button md-logo" aria-label="Power SMPP User Documentation" data-md-component="logo">
+      
+  <img src="../../assets/powersmpp.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Power SMPP User Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Códigos de Erro SMPP
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="deep-orange"  aria-label="Light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="cyan"  aria-label="Dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Selecione o idioma">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../smpp-error-codes/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="./" hreflang="pt" class="md-select__link">
+              Português (Portuguese)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../es/smpp-error-codes/" hreflang="es" class="md-select__link">
+              Español (Spanish)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../fr/smpp-error-codes/" hreflang="fr" class="md-select__link">
+              Français (French)
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../tr/smpp-error-codes/" hreflang="tr" class="md-select__link">
+              Türkçe (Turkish)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Compartilhar" aria-label="Compartilhar" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Boas-vindas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../user/dashboard/dashboard/" class="md-tabs__link">
+          
+  
+  
+  Usuário
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../plugins/whatsapp/whatsappuser/overview/" class="md-tabs__link">
+          
+  
+  
+  Usuários do WhatsApp
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../glossary/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Glossário
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Códigos de Erro SMPP
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../faq/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  FAQ
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../" title="Power SMPP User Documentation" class="md-nav__button md-logo" aria-label="Power SMPP User Documentation" data-md-component="logo">
+      
+  <img src="../../assets/powersmpp.png" alt="logo">
+
+    </a>
+    Power SMPP User Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Boas-vindas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Usuário
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Usuário
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/dashboard/dashboard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Painel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    SMS MT
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    SMS MT
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_1" id="__nav_2_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    SMS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    SMS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/smsmt/compose/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Compor SMS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/smsmt/smsfromexcel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    SMS do Excel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/smsmt/managesenderid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gerenciar o ID do remetente
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/smsmt/managetemplate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gerenciar Modelo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_2" id="__nav_2_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contactos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Contactos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/contacts/managegroups/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gerenciar grupos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/contacts/importcontacts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Importar contatos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/contacts/exportcontacts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exportar contatos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3" id="__nav_2_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Relatório
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Relatório
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/report/campaign/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Relatório da Campanha
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/report/schedule/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Minhas Agendas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/report/messagecount/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contagem de Mensagens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/report/downloadreport/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Baixar relatório
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_4" id="__nav_2_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Barra de Aplicação
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Barra de Aplicação
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/applicationbar/rateplan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Meu Plano de Taxa
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/applicationbar/transaction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Minhas Transações
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/applicationbar/webhook/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    WebHooks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/applicationbar/notificationemail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    E- mail de notificação
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_5" id="__nav_2_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Configurações
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Configurações
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/settings/myprofile/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Meu Perfil
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/settings/changepassword/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mudar a Senha
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    API do desenvolvedor
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    API do desenvolvedor
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/apidocument/developerapi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    API do desenvolvedor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user/apidocument/document/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Documento da API
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Usuários do WhatsApp
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Usuários do WhatsApp
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Começar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/campaign/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Campanha
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/template/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Modelo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/teamagent/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Equipa com Contas de Agente
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/advancerouting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Regras avançadas de roteamento do WhatsApp
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/ruleconfiguration/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Configuração da Regra
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/manageflow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gerenciar fluxo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/teaminbox/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Caixa de Entrada da Equipa
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_9" id="__nav_3_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Relatório
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Relatório
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/reports/campaignreport/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Relatório da Campanha
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/reports/messagecount/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Relatório da Contagem de Mensagens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/reports/myschedule/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Minha agenda
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/reports/downloadreport/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Baixar relatório do WhatsApp
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../plugins/whatsapp/whatsappuser/monitoring/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Acompanhamento
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glossário
+  
+
+    
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--encrypted"></span>
+  
+
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Códigos de Erro SMPP
+  
+
+    
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--encrypted"></span>
+  
+
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Códigos de Erro SMPP
+  
+
+    
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--encrypted"></span>
+  
+
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#codigos-de-erro-padrao-smpp" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Códigos de Erro Padrão SMPP
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#codigos-de-erro-itextpro" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Códigos de Erro iTextPro
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#codigos-de-erro-do-gateway-http-do-itexthub" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Códigos de Erro do Gateway HTTP do iTextHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FAQ
+  
+
+    
+  </span>
+  
+    
+  
+  
+    <span class="md-status md-status--encrypted"></span>
+  
+
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#codigos-de-erro-padrao-smpp" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Códigos de Erro Padrão SMPP
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#codigos-de-erro-itextpro" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Códigos de Erro iTextPro
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#codigos-de-erro-do-gateway-http-do-itexthub" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Códigos de Erro do Gateway HTTP do iTextHub
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+      
+        <span class="md-tag">Error Codes</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Gateway</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Reference</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">SMPP</span>
+      
+    
+  </nav>
+
+
+
+<div id="mkdocs-encrypted-content" style="display:none">8nqQPAqMN5GzreUv69ta+w==;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</div>
+<div id="mkdocs-decrypted-content" style="display:none">
+    <form id="mkdocs-decrypt-form" class="md-content__inner md-typeset">
+        <h1></h1>
+        
+        <input class="md-input" type="password" id="mkdocs-content-password" placeholder="Enter password">
+        <button class="md-button md-button--primary" id="mkdocs-decrypt-button">Submit</button>
+        <p id="mkdocs-decrypt-msg"></p>
+    </form>
+</div>
+
+<script type="text/javascript">
+var encryptcontent_id = "encryptcontent_1";
+var encryptcontent_path = "pt/smpp-error-codes/";
+var decryption_failure_message = "Incorrect password. Please try again.";
+var encryptcontent_keystore = ["klZn99apjro+yrKkT9Pt2Q==;LxShj8ObpV/N+0onetSKdcW07mO6sGd77DkuBwSYC2zKFTzbBo4ZOb2rqkEF94aKl5dZ0nUwrCLTp80g16RDtY5tb/wkzcGMW4IMGaEfSI4pEjb0/2GLqYoiGihiVv/6;EAjgpB/QfD91eQii/cFHTQ=="];
+var encryptcontent_obfuscate = 0;
+
+const encryptcontent_event = new Event("encryptcontent_event");
+var encryptcontent_done = false;
+</script>
+<script type="module">
+if (!window.hasOwnProperty("init_decryptor")) {
+    import("../../assets/javascripts/decrypt-contents.js");
+} else {
+    init_decryptor();
+}
+</script>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Voltar ao topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../glossary/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Glossário">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Glossário
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../faq/" class="md-footer__link md-footer__link--next" aria-label="Próximo: FAQ">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                FAQ
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2024-2026 Power SMPP. All rights reserved.
+    </div>
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://www.powersmpp.com" target="_blank" rel="noopener" title="Power SMPP Website" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://wa.me/919909945175" target="_blank" rel="noopener" title="WhatsApp Support" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157m-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1s56.2 81.2 56.1 130.5c0 101.8-84.9 184.6-186.6 184.6m101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8s-14.3 18-17.6 21.8c-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7s-12.5-30.1-17.1-41.2c-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2s-9.7 1.4-14.8 6.9c-5.1 5.6-19.4 19-19.4 46.3s19.9 53.7 22.6 57.4c2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4s4.6-24.1 3.2-26.4c-1.3-2.5-5-3.9-10.5-6.6"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.path", "search.highlight", "search.suggest", "search.share", "navigation.tracking", "navigation.footer", "navigation.top", "toc.follow", "content.code.copy"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
